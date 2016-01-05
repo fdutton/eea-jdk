@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JFieldRef
+assign
+ (Lcom/sun/codemodel/internal/JExpression;)Lcom/sun/codemodel/internal/JExpression;
+ (Lcom/sun/codemodel/internal/JExpression;)L1com/sun/codemodel/internal/JExpression;

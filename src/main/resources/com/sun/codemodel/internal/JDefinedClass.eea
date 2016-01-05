@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JDefinedClass
+fields
+ ()Ljava/util/Map<Ljava/lang/String;Lcom/sun/codemodel/internal/JFieldVar;>;
+ ()L1java/util/Map<Ljava/lang/String;Lcom/sun/codemodel/internal/JFieldVar;>;

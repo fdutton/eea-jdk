@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JExpr
+_new
+ (Lcom/sun/codemodel/internal/JClass;)Lcom/sun/codemodel/internal/JInvocation;
+ (Lcom/sun/codemodel/internal/JClass;)L1com/sun/codemodel/internal/JInvocation;

@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JVar
+type
+ ()Lcom/sun/codemodel/internal/JType;
+ ()L1com/sun/codemodel/internal/JType;

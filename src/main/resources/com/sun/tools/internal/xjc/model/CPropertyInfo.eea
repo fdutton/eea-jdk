@@ -1,0 +1,4 @@
+class com/sun/tools/internal/xjc/model/CPropertyInfo
+getName
+ (Z)Ljava/lang/String;
+ (Z)L1java/lang/String;

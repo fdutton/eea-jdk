@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JCodeModel
+ref
+ (Ljava/lang/Class<*>;)Lcom/sun/codemodel/internal/JClass;
+ (Ljava/lang/Class<*>;)L1com/sun/codemodel/internal/JClass;

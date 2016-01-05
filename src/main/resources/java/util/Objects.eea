@@ -1,0 +1,7 @@
+class java/util/Objects
+requireNonNull
+ <T:Ljava/lang/Object;>(TT;)TT;
+ <T0:Ljava/lang/Object;>(TT;)T1T;
+requireNonNull
+ <T:Ljava/lang/Object;>(TT;Ljava/lang/String;)TT;
+ <T0:Ljava/lang/Object;>(TT;L0java/lang/String;)T1T;

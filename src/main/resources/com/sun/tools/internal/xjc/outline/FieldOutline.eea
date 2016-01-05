@@ -1,0 +1,7 @@
+class com/sun/tools/internal/xjc/outline/FieldOutline
+getPropertyInfo
+ ()Lcom/sun/tools/internal/xjc/model/CPropertyInfo;
+ ()L1com/sun/tools/internal/xjc/model/CPropertyInfo;
+parent
+ ()Lcom/sun/tools/internal/xjc/outline/ClassOutline;
+ ()L1com/sun/tools/internal/xjc/outline/ClassOutline;
