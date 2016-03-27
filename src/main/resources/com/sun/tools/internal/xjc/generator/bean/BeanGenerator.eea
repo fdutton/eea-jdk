@@ -1,0 +1,4 @@
+class com/sun/tools/internal/xjc/generator/bean/BeanGenerator
+getCodeModel
+ ()Lcom/sun/codemodel/internal/JCodeModel;
+ ()L1com/sun/codemodel/internal/JCodeModel;

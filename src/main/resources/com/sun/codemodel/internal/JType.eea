@@ -1,0 +1,4 @@
+class com/sun/codemodel/internal/JType
+owner
+ ()Lcom/sun/codemodel/internal/JCodeModel;
+ ()L1com/sun/codemodel/internal/JCodeModel;
